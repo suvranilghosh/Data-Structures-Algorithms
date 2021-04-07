@@ -1,0 +1,46 @@
+New York:18713220
+Los Angeles:12750807
+Chicago:8604203
+Miami:6445545
+Dallas:5743938
+Philadelphia:5649300
+Houston:5464251
+Atlanta:5449398
+Washington:5379184
+Boston:4688346
+Phoenix:4219697
+Seattle:3789215
+San Francisco:3592294
+Detroit:3506126
+San Diego:3220118
+Minneapolis:2977172
+Tampa:2908063
+Denver:2876625
+Brooklyn:2559903
+Queens:2230722
+Riverside:2107852
+Baltimore:2106068
+Las Vegas:2104198
+Portland:2074775
+San Antonio:2049293
+St. Louis:2024074
+Sacramento:1898019
+Orlando:1822394
+San Jose:1798103
+Cleveland:1710093
+Pittsburgh:1703266
+Austin:1687311
+Cincinnati:1662691
+Kansas City:1636715
+Manhattan:1628706
+Indianapolis:1588961
+Columbus:1562009
+Charlotte:1512923
+Virginia Beach:1478868
+Bronx:1418207
+Milwaukee:1365787
+Providence:1203230
+Jacksonville:1181496
+Salt Lake City:1098526
+Nashville:1081903
+Richmond:1075798
