@@ -1,11 +1,12 @@
-# Finding rank of an element:rank() and 
-# selection of an element with a specified rank: select() in a BST
-# execution instructions: 
-# under ./Q3/source_code/ directory
-# > python bst.py <file_name>
-# example:
-# python bst.py HW2.txt
-
+'''
+Finding rank of an element:rank() and 
+selection of an element with a specified rank: select() in a BST
+execution instructions: 
+under ./Q3/source_code/ directory
+> python bst.py <file_name>
+example:
+python bst.py HW2.txt
+'''
 import time
 import random
 import sys

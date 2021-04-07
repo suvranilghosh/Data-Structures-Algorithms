@@ -1,10 +1,12 @@
-# 3-Sum - Naive and Sophisticated
-# ***execution instructions*** 
-# > cd Q1/source_code/
-# > python 3sum.py <filename>
-# example cmd line: 
-# > python 3sum.py 8int.txt
-# add custom data files under the '/Q1/data' directory 
+'''
+3-Sum - Naive and Sophisticated
+***execution instructions*** 
+> cd Q1/source_code/
+> python 3sum.py <filename>
+example cmd line: 
+> python 3sum.py 8int.txt
+add custom data files under the '/Q1/data' directory 
+'''
 
 import time
 from sys import argv

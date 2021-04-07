@@ -1,11 +1,12 @@
-# Recursive and Bottum-Up Mergesort
-# ***execution instructions***
-# >cd /Q4/source_code/
-# >python merge_sort.py <filename>
-# example cmd line: 
-# >python merge_sort.py data1.16384
-# add custom data files under the '/Q4/data' directory 
-
+'''
+Recursive and Bottum-Up Mergesort
+***execution instructions***
+>cd /Q4/source_code/
+>python merge_sort.py <filename>
+example cmd line: 
+>python merge_sort.py data1.16384
+add custom data files under the '/Q4/data' directory 
+'''
 import time, math
 from sys import argv
 

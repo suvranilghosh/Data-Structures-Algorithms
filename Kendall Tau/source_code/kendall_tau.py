@@ -1,16 +1,17 @@
-# Kendall Tau distance between two rankings - one of them being pre-sorted
-# ***execution instructions***
-# >cd /Q3/source_code/
-# >python kendall_tay.py <input_size>
-# example cmd line: 
-# >python kendall_tay.py 8192
-# add custom data files under the '/Q3/data' directory
-# make sure the datafiles are in pairs:
-# data0.x and data1.x
-# x = file_length for eg: 1024, 4096, 2048 etc.
-# data0.x has to be sorted in ascending order
-# see main() function for more details about custom data input
-
+'''
+Kendall Tau distance between two rankings - one of them being pre-sorted
+***execution instructions***
+>cd /Q3/source_code/
+>python kendall_tay.py <input_size>
+example cmd line: 
+>python kendall_tay.py 8192
+add custom data files under the '/Q3/data' directory
+make sure the datafiles are in pairs:
+data0.x and data1.x
+x = file_length for eg: 1024, 4096, 2048 etc.
+data0.x has to be sorted in ascending order
+see main() function for more details about custom data input
+'''
 
 import time
 from sys import argv

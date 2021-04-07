@@ -1,10 +1,12 @@
-# Quick Find, Quick Union, Weighted Quick Union
-# ***execution instructions*** 
-# >cd /Q2/source_code/
-# >python union-find.py <filename>
-# example cmd line: 
-# >python union-find.py 8192pair.txt
-# add custom data files under the '/Q2/data' directory 
+'''
+Quick Find, Quick Union, Weighted Quick Union
+***execution instructions*** 
+>cd /Q2/source_code/
+>python union-find.py <filename>
+example cmd line: 
+>python union-find.py 8192pair.txt
+add custom data files under the '/Q2/data' directory 
+'''
 
 import time
 from sys import argv

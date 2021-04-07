@@ -1,10 +1,12 @@
-# Quicksort using Median of 3 values as Pivot
-# ***execution instructions***
-# >cd /Q5/source_code/
-# >python quicksort.py <filename>
-# example cmd line: 
-# >python quicksort.py data1.16384
-# add custom data files under the '/Q5/data' directory 
+'''
+Quicksort using Median of 3 values as Pivot
+***execution instructions***
+>cd /Q5/source_code/
+>python quicksort.py <filename>
+example cmd line: 
+>python quicksort.py data1.16384
+add custom data files under the '/Q5/data' directory 
+'''
 
 import time
 from sys import argv

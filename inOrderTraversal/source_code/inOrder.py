@@ -1,12 +1,13 @@
-# next(): returns the next smallest number in the BST
-# hasNext(): returns True if the tree is not empty and False otherwise
-# Only Node and BSTIterator classes along side functions definitions 
-# are given as per the question in the assignment
+'''
+next(): returns the next smallest number in the BST
+hasNext(): returns True if the tree is not empty and False otherwise
+Only Node and BSTIterator classes along side functions definitions 
+are given as per the question in the assignment
 
-# ******************************
-# Please use your own drive code
-# ******************************
-
+******************************
+Please use your own drive code
+******************************
+'''
 # Node class
 class TreeNode:
     def __init__(self, key=0, left=None, right=None):

@@ -1,17 +1,18 @@
-# Average Path Length of in a tree
-# From N random insertions and N sorted insertions
+'''
+Average Path Length of in a tree
+From N random insertions and N sorted insertions
 
-# execution instructions: 
-# under ./Q1/source_code/ directory
-# > python avgPathLength.py <N>(optional) 
-# N defaults to 2462 if no argument is provided
-# example:
-# > python avgPathLength.py 1024
+execution instructions: 
+under ./Q1/source_code/ directory
+> python avgPathLength.py <N>(optional) 
+N defaults to 2462 if no argument is provided
+example:
+> python avgPathLength.py 1024
 
-# Note: Max value of N is 2462 since we are limited by Python's recursion depth which is set to 
-# 2 Million in this case in line 84. If larger values of N are needed for test cases, please increase
-# the recursion depth accordingly
-
+Note: Max value of N is 2462 since we are limited by Python's recursion depth which is set to 
+2 Million in this case in line 84. If larger values of N are needed for test cases, please increase
+the recursion depth accordingly
+'''
 import sys
 import time
 import random

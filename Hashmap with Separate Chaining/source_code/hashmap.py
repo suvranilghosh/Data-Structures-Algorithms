@@ -1,19 +1,20 @@
-# Hashmap with Separate Chaining
+'''
+Hashmap with Separate Chaining
 
-# execution instructions:
-# under ./Q4/source_code/ directory
-# > python hashmap.py <file_name>
-# example:
-# python hashmap.py hw2q4.txt
+execution instructions:
+under ./Q4/source_code/ directory
+> python hashmap.py <file_name>
+example:
+python hashmap.py hw2q4.txt
 
-# Notes on input data:
-# This implementation/driver code best works with .txt files where each line contains a 'Key:Value' pair formatted exactly like that with no spaces in between.
-# Depending on the datatype of the key and the value, please typecast properly (in line 84 of the driver code)before 'put'ting it in the hashmap. For example 
-# in my case, we have a text file named hw2q4.txt which contains '<city>:<population>' pair in each line. So when calling the put() function I typecasted the 
-# key to be a string and the value to be an integer. Since my hashFucntion() utlizes the Python inbuilt hash(), each data type passed into the hashFunction() 
-# gets converted into an integer before the mod operation is applied. Also as always, make sure to put all the input data into the data folder, if my driver
-# code is being used for testing purposes.
-
+Notes on input data:
+This implementation/driver code best works with .txt files where each line contains a 'Key:Value' pair formatted exactly like that with no spaces in between.
+Depending on the datatype of the key and the value, please typecast properly (in line 84 of the driver code)before 'put'ting it in the hashmap. For example 
+in my case, we have a text file named hw2q4.txt which contains '<city>:<population>' pair in each line. So when calling the put() function I typecasted the 
+key to be a string and the value to be an integer. Since my hashFucntion() utlizes the Python inbuilt hash(), each data type passed into the hashFunction() 
+gets converted into an integer before the mod operation is applied. Also as always, make sure to put all the input data into the data folder, if my driver
+code is being used for testing purposes.
+'''
 
 from sys import argv
 
